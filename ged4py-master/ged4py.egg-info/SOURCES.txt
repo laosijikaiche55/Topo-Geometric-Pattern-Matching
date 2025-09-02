@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+ged4py/__init__.py
+ged4py.egg-info/PKG-INFO
+ged4py.egg-info/SOURCES.txt
+ged4py.egg-info/dependency_links.txt
+ged4py.egg-info/top_level.txt
+ged4py/algorithm/__init__.py
+ged4py/algorithm/abstract_graph_edit_dist.py
+ged4py/algorithm/edge_edit_dist.py
+ged4py/algorithm/graph_edit_dist.py
+ged4py/graph/__init__.py
+ged4py/graph/edge_graph.py
